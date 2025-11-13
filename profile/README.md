@@ -1,6 +1,6 @@
 # 👋 Welcome to **Tasky-Projects**
 
-🌟 **Demo Enterprise Project**  
+🌟 **Demo Enterprise Project Public**  
 Built by **Rob Mann**
 
 ---
