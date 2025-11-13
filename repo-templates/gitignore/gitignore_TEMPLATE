@@ -1,0 +1,81 @@
+# Node.js dependencies
+node_modules/
+
+# Docusaurus build and cache
+build/
+.docusaurus/
+.cache-loader/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
+.history/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio project folders
+[Dd]ebug*/
+[Dd]ebugPublic/
+[Rr]elease*/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Project-specific VS folders and Copilot indices
+/.vs/cpp-docs2/
+!/.vs/cpp-docs2/CopilotIndices/   # Exclude Copilot indices
+/.vs/cpp-docs2/CopilotIndices/
+# Remove any other Copilot indices folders
+CopilotIndices/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS system files
+.DS_Store
+
+# Python/Jupyter code chunk outputs (if any)
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+__pycache__/
+
+# Compiled code (general)
+*.out
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.class
+
+# Miscellaneous
+# Uncomment if your build outputs to wwwroot
+# wwwroot/
